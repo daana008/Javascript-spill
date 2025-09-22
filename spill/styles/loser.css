@@ -1,0 +1,9 @@
+body{
+    background-image: url(../images/defeat\ screen\ .png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.back{
+    margin-left: 30%;
+}

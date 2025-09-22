@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combat Screen</title>
+    <link rel="stylesheet" href="../styles/combat_screen_styles.css">
+</head>
+<body>
+    <div class="header">
+    </div>
+
+    <div class="player-container">
+        <div class="player">
+            <div id="spell-info-player"></div>
+            <div class="helathy-bar">
+                <div class="health-bar player" id="player-health"></div>
+            </div>
+            <img src="../images/player copy.gif" alt="Player Model">
+        </div>
+        <div class="attack-container" id="attack-container">
+        </div>
+        <div class="enemy">
+            <div id="spell-info-enemy"></div>
+            <div class="bad-guy-healthy-bar">
+                <div class="health-bar enemy" id="enemy-health">necromancer</div>
+            </div>
+            <img src="../images/necromancer.gif" alt="Enemy Model" width="100%">
+        </div>
+    </div>
+    <script src="../javascript/combat.js"></script>
+</body>
+</html>

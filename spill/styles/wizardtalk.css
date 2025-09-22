@@ -1,0 +1,26 @@
+body{
+    background-image: url(../images/tavern2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.wizard2{
+    margin-left: 30%;
+    margin-top: 300px;
+    position: absolute;
+    margin-top: -5%;
+    margin-left: 20%;
+}
+
+.wizardTalk{
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 100px;
+}
+
+.pil{
+    position: absolute;
+    margin-left: 75%;
+    margin-top: 600px;
+}
+

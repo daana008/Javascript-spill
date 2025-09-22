@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+    background-image: url("../images/dungeon\ background.jpg");
+    background-repeat: no-repeat;    
+    background-size: cover;
+}
+.menu-container {
+    background-image: url("../images/board.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 250px;
+    width: 481px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    
+}
+li {
+    margin-bottom: 1%;
+}
+/*a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+    padding: 8px 20px;
+    border: 2px solid #007bff;
+    border-radius: 5px;
+    background-color: #ffffff;
+    transition: all 0.3s ease;
+}
+a:hover {
+    background-color: #007bff;
+    color: #ffffff;
+}
