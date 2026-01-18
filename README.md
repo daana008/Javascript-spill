@@ -1,1 +1,1 @@
-dette er et turn based spill laget hovedsakelig med javascript 
+En turnabased spill laget med bruk av Javascript som åpnes i nettleseren din
